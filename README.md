@@ -1,6 +1,6 @@
 # ¡Bienvenido a mi repositorio! 👋
 
-Soy un desarrollador **FRONTEND** autodidacta, apasionado por el aprendizaje y el desarrollo de software:computer:. Mi camino en el desarrollo web está impulsado por la curiosidad y el deseo constante de mejorar mis habilidades. Me encanta explorar nuevas tecnologías y aplicarlas para apropiarme de ese conocimiento.
+Soy un desarrollador **FRONTEND** autodidacta, apasionado por el aprendizaje y el desarrollo de software 💻. Mi camino en el desarrollo web está impulsado por la curiosidad y el deseo constante de mejorar mis habilidades. Me encanta explorar nuevas tecnologías y aplicarlas para apropiarme de ese conocimiento.
 
 
 ## Conocimientos
